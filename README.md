@@ -10,3 +10,4 @@ Objetivos :cactus:
 * Crear un proyecto en Rstudio
 * Sincronizar el repositorio de Github con Rstudio
 * Instalar Miktex
+* Intalar librerías para R
